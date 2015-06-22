@@ -1,0 +1,94 @@
+				
+				div.profile-view
+				{
+					float: left;
+					margin-left: 20px;
+					margin-top: 60px;
+					width: 250px;
+				}
+				div.profile-image
+				{
+					float:left;
+					margin-left: 10px;
+					width:100px;
+				}
+				div.profile-name
+				{
+					float: left;
+					margin-left: 10px;
+					width: 100px;
+					margin-top: 20px;
+				}
+				div.total
+				{
+					float: left;
+					width: auto; 
+					height: auto;
+				}
+				div.left_part
+				{
+					position: absolute;
+					position: fixed;
+					float: left;
+					margin-left: 40px;
+					margin-top: 40px;
+					width: 300px; 
+					margin-bottom: 100px;
+				}
+				div.middle-part
+				{
+					
+					margin-left : 315px;
+					margin-top: 70px;
+					width: 560px;
+					float: left;
+					
+				}
+				div.right_part
+				{	
+					
+					margin-top: 70px;
+					margin-left: 25px;
+					float : left;
+					width: 250px;
+					height: 400px;
+				}
+				div.information
+				{
+					float: left;
+					margin-left: 40px;
+					margin-top: 40px;
+					width: 90px;
+				}
+				div.Events-image
+				{
+					float: left; 
+				}
+				div.newline
+				{
+					width: 100px;
+					height: 30px;
+				}
+				div.Border
+				{
+					width : 0px;
+					height: 10000px;
+					margin-top : 0px;
+					margin-left: 243px;
+					
+				}
+				div.Create-Events
+				{
+					margin-top: 20px;
+					margin-left: 20px;
+				}
+				div.Create-Pages
+				{
+					margin-top: 10px;
+					margin-left: 20px;
+				}
+				div.Create-Groups
+				{
+					margin-top: 10px;
+					margin-left: 20px;
+				}

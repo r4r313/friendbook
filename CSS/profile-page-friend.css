@@ -1,0 +1,46 @@
+			div.profile-page-friend-header
+			{
+				position: absolute;
+				width: 850px;
+				height: 70px;
+				margin-left: 80px;
+				margin-top: 50px;
+				background-color: #FFFFFF;
+				border-radius: 7px;
+			}
+			div.profile-page-friend
+			{
+				position: absolute;
+				width: 850px;
+				height: auto;
+				margin-left: 80px;
+				margin-top: 180px;
+				background-color: #FFFFFF;
+				border-radius: 7px;
+			}
+			div.sizing-friend
+			{
+				float: left;
+				margin-left: 50px;
+				margin-top: 60px;
+				width: 345px;
+				height: 150px;
+				border-style: double;
+   			    border-color: #E5E5E5 #E5E5E5;
+			}
+			div.sizing-friend-name
+			{
+				float: left;
+				margin-left: 160px;
+				margin-top: -140px;
+				width: 90px;
+				height: 140px;
+				font-family: monospace;
+				font-style: bold;
+				font-size: 14;
+			}
+			div.sizing-friend-button
+			{
+				margin-left: 270px;
+				margin-top: -30px;
+			}

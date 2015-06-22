@@ -1,0 +1,86 @@
+        .chat-box
+        {
+            position: absolute;
+            position: fixed;
+            margin-left: 1085px;
+            margin-top: 45px;
+            height: 250px;
+            width: 250px;
+            overflow-y: scroll;
+            border: 1px solid #bbbbbb;
+            border-radius: 3px;
+            background-color: #EEEEEE;
+        }
+        a
+        {
+            text-decoration: none;
+        }
+        .c-box
+        {
+            position: absolute;
+            position: fixed;
+            margin-left: 1085px;
+            margin-top: 300px;
+            border-radius: 3px;
+            height: 330px;
+             border: 1px solid #bbbbbb;
+
+            float: right;
+            background-color: #EEEEEE;
+        }
+        .online-user
+        {
+            background: #FFFFFF;
+            width: 300px;
+            height: 20px;
+
+        }
+        .b-l
+        {
+            background: #627AAC;
+            width: 252px;
+            height: 30px;
+            border: 1px solid red;
+
+        }
+        .name-cb
+        {
+            color: white;
+            width: 200px;
+            height: 20px;
+        }
+        .close-image
+        {
+            margin-left: 220px;
+            margin-top: -15px;
+            width: 20px;
+            height: 20px;
+        }
+        .pre-msg
+        {
+            width: 250px;
+            height: 240px; 
+            overflow-y : scroll; 
+        }
+        .t1
+        {
+            width : 240px;
+            background: #FFFFFF;
+        }
+        .t2
+        {
+            background: #FFFFFF;
+            text-align: right;
+        }
+        .txt-area
+        {
+            
+            height: 55px; 
+            overflow-y :scroll;
+        }
+        .txt
+        {
+            height: 55px;
+            width: 250px;
+            overflow-y: scroll; 
+        }

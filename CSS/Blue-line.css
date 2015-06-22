@@ -1,0 +1,20 @@
+
+
+				div.div-top
+				{
+					position: absolute;
+					position: fixed;
+					margin-left: -10px;
+					margin-top: -10px;
+					position: fixed;
+					background: #627AAC; 
+					width: 102%;
+					height: 8%;
+				}
+				td.top-right 
+				{
+					width: 80px;
+					text-align: center;
+					background: #627AAD;
+					color: white;
+				}

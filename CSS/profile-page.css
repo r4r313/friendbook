@@ -1,0 +1,283 @@
+			a
+			{
+				text-decoration: none;
+			}
+			div.div-top
+			{
+				position: absolute;
+				position: fixed;
+				margin-left: -10px;
+				margin-top: -10px;
+				background: #627AAC; 
+				width: 102%;
+				height: 8%;
+				z-index: 10;
+			}
+			td.top-right 
+			{
+				width: 80px;
+				text-align: center;
+				background: #627AAD;
+				color: white;
+
+			}
+			div.profile-top
+			{
+				margin-left: 80px;
+				margin-top: 0px;
+				border: 1px solid blue;
+				width: 850px;
+				height: 400px;
+			}
+			div.profile-cover
+			{
+				border: 1px solid blue;
+				width: 849px;
+				height: 330px;
+			}
+			div.profile-pic
+			{
+				margin-top: -133px;
+				border: 1px solid blue;
+				width: 200px;
+				height: 200px;
+			}
+			div.profile-change-pic
+			{
+				margin-top: -70px;
+				margin-left: 201px;
+				border: 1px solid blue;
+				width: 90px;
+				height: 68px;
+				background: linear-gradient(to bottom,#E6E6E6, #999999);
+				font-family: tahoma;
+			}
+			div.profile-about
+			{
+				margin-top: -70px;
+				margin-left: 290px;
+				border: 1px solid blue;
+				width: 90;
+				height: 68px;
+				background: linear-gradient(to bottom,#E6E6E6, #999999);
+				font-family: tahoma;
+			}
+			div.profile-friend
+			{
+				margin-top: -70px;
+				margin-left: 380px;
+				border: 1px solid blue;
+				width: 90;
+				height: 68px;
+				background: linear-gradient(to bottom,#E6E6E6, #999999);
+				font-family: tahoma;
+			}
+			div.profile-photo
+			{
+				margin-top: -70px;
+				margin-left: 470px;
+				border: 1px solid blue;
+				width: 90;
+				height: 68px;
+				background: linear-gradient(to bottom,#E6E6E6, #999999);
+				font-family: tahoma;
+			}
+			div.profile-more
+			{
+				margin-top: -70px;
+				margin-left: 560px;
+				border: 1px solid blue;
+				width: 90;
+				height: 68px;
+				background: linear-gradient(to bottom,#E6E6E6, #999999);
+				font-family: tahoma;
+			}
+			div.profile-settings
+			{
+				margin-top: -70px;
+				margin-left: 650px;
+				border: 1px solid blue;
+				width: 199px;
+				height: 68px;
+				background: linear-gradient(to bottom,#E6E6E6, #999999);
+				font-family: tahoma;
+			}
+			div.profile-name
+			{
+				margin-top: -100px;
+				margin-left: 220px;
+				border: 1px solid blue;
+				height: 25px;
+				width: auto;
+				font-style: normal;
+				font-size: 20;
+				background: linear-gradient(to bottom,#E6E6E6, #78D6F0);
+				font-family: tahoma;
+			}
+			div.profile-middle-part
+			{
+				position: absolute;
+				margin-left: 80px;
+				margin-top: 20px;
+			}
+			div.profile-middle-left
+			{
+				margin-top: 30px;
+				float: left;
+				height: auto;
+				width: 290px;
+				
+				background-color: #FFFFFF; 
+			}
+			div.profile-center
+			{
+				
+				margin-top: 0px;
+				margin-left: 300px;
+				height: auto;
+				width: 559px;
+			}
+			div.profile-right
+			{
+				margin-top: -250px;
+				margin-left: 880px;
+				border: 1px solid blue;
+				width: 150px;
+				height: 250px;
+			}
+
+
+			div.profile-job-description
+			{
+				margin-top: 20px;
+				float: left;
+				height: auto;
+				width: 290px;
+				font-family: sans-serif;
+				color: #627AFF;
+			}
+			div.profile-job-description-image
+			{
+				margin-top: 5px;
+				margin-left: 10px;
+				height: auto;
+				width: 30px;
+			}
+			div.profile-job-description-text
+			{
+				margin-left: 35px;
+				margin-top: -15px;
+				height: auto;
+				width: 260px;
+			}
+
+
+			div.profile-study-description
+			{
+				margin-top: 20px;
+				float: left;
+				height: auto;
+				width: 290px;
+				font-family: sans-serif;
+				color: #627AFF;
+			}
+			div.profile-study-description-image
+			{
+				margin-top: 5px;
+				margin-left: 10px;
+				height: auto;
+				width: 30px;
+			}
+			div.profile-study-description-text
+			{
+				margin-left: 35px;
+				margin-top: -15px;
+				height: auto;
+				width: 260px;
+			}
+
+
+			div.profile-living-description
+			{
+				margin-top: 20px;
+				float: left;
+				height: auto;
+				width: 290px;
+				font-family: sans-serif;
+				color: #627AFF;
+			}
+			div.profile-living-description-image
+			{
+				margin-top: 5px;
+				margin-left: 10px;
+				height: auto;
+				width: 30px;
+			}
+			div.profile-living-description-text
+			{
+				margin-left: 35px;
+				margin-top: -15px;
+				height: auto;
+				width: 260px;
+			}
+
+			
+			div.profile-living-description
+			{
+				margin-top: 20px;
+				float: left;
+				height: auto;
+				width: 290px;
+				font-family: sans-serif;
+				color: #627AFF;
+			}
+			div.profile-living-description-image
+			{
+				margin-top: 5px;
+				margin-left: 10px;
+				height: auto;
+				width: 30px;
+			}
+			div.profile-living-description-text
+			{
+				margin-left: 35px;
+				margin-top: -15px;
+				height: auto;
+				width: 260px;
+			}
+
+
+			div.profile-from-description
+			{
+				margin-top: 20px;
+				float: left;
+				height: auto;
+				width: 290px;
+				font-family: sans-serif;
+				color: #627AFF;
+			}
+			div.profile-from-description-image
+			{
+				margin-top: 5px;
+				margin-left: 10px;
+				height: auto;
+				width: 30px;
+			}
+			div.profile-from-description-text
+			{
+				margin-left: 35px;
+				margin-top: -15px;
+				height: auto;
+				width: 260px;
+			}
+
+
+			div.profile-left-part-bottom-margin
+			{
+				margin-top: 20px;
+				float: left;
+				height: auto;
+				width: 290px;
+				font-family: sans-serif;
+				color: #627AFF;
+			}

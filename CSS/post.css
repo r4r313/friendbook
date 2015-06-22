@@ -1,0 +1,120 @@
+	textarea.status-text-box
+	{
+		float: left;
+		width: 550px;
+		padding: 5px;
+		height: 60px;
+		border-radius: 4px;
+	}
+	input.status-text-submit
+	{
+		margin-left: 500px;
+		border-radius: 5px;
+		background-color: #1111EE;
+		color: #000000;
+	}
+	input.input-user-comment
+	{
+		border-radius: 2px;
+		width: 460px;
+		height: 30px;
+		margin-left: 5px;
+	}
+
+	a
+	{
+		text-decoration: none;
+	}
+
+	div.status
+	{
+		float: left;
+		width: 550px;
+		height: auto;
+		background-color: #ffffff;
+		border-radius: 5px;
+		margin-top: 10px;
+		margin-bottom: 2px;
+	}
+
+
+	div.about-user
+	{
+		float: left;
+		height: 60px;
+		width: 500px;
+		margin-left: 5px;
+		margin-top: 5px;
+	}
+
+	div.user-img
+	{
+		height: 50px;
+		width: 50px;
+		float: left;
+		margin-left: 5px;
+		margin-top: 5px;
+	}
+	div.user-name
+	{
+		float: left;
+		margin-top: 10px;
+		margin-left: 5px;
+		color: #3311FF;
+	}
+	div.post-data
+	{
+		margin-left: 5px;
+		float: left;
+		width: 500px;
+	}
+	div.post-comment
+	{
+		float: left;
+		width: 540px;
+		margin-left: 5px;
+		background-color: #F2F0F0;
+	}
+	div.post-buttons
+	{
+		float: left;
+		margin-left: 10px;
+		text-decoration: none;
+		width: 500px;
+		
+	}
+	div.post-likes
+	{
+		float: left;
+		margin-left: 10px;
+		width: 500px;
+		
+	}
+	div.user-img-comment
+	{
+		
+		float: left;
+		width: 30px;
+		background-color: #F2F0F0;
+		margin-left: 5px;
+	}
+	
+	div.user-name-comment
+	{
+		margin-left: 35px;
+		background-color: #F2F0F0;
+	}
+	div.like-post-comment
+	{
+		margin-left: 35px;
+		float: left;
+		padding: 2px;
+		background-color: #F2F0F0;
+		width: 506px;
+	}
+	div.after-comment-box
+	{
+		float: left;
+		width: 560px;
+		height:5px;
+	}

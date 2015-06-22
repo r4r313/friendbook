@@ -1,0 +1,89 @@
+				div.login-top
+				{
+					margin-left: -10px;
+					margin-top: -10px;
+					background: #627AAC; 
+					width: 102%;
+					height: 12%;
+				}
+				.login-top-image
+				{
+					margin-left: 180px;
+					margin-top: 10px;
+					width: 30%;
+					height: 80%;
+				}
+				div.login-Details
+				{
+					margin-top: -40px;
+					margin-left: 700px;
+				}
+				h2.login-text
+				{
+					margin-left: 200px;
+					margin-top: 80px;
+				}
+				img.login-world-image
+				{
+					margin-left: 160px;
+					height: 50%;
+					width: 60%;
+				}
+				div.login-world-Details
+				{
+					border: 1px solid Blue;
+					width: 63%;
+					height: 100%;
+				}
+				div.login-bottom-part
+				{
+					background: linear-gradient(to bottom,white, #627AAC);
+					margin-left: -10px;
+					height: 470px;
+				}
+				div.sign-up-Details
+				{
+					margin-left: 857px;
+					margin-top: -472px;
+					height: 470px;
+					border: 1px solid Blue;
+				}
+				div.sign-up-text
+				{
+					margin-left: 10px;
+					margin-top: 10px;
+					border: 1px solid Blue;
+				}
+				div.sign-up-General
+				{
+					margin-left: 10px;
+					margin-top: 20px;
+					font-size: 20;
+				}
+				div.sign-up-name-box
+				{
+					font-size: 20;
+				}
+				select.sign-up-s
+				{
+					font-size: 20;
+				}
+				div.sign-up-date
+				{
+					margin-top: 10px;
+				}
+				div.sign-up-month
+				{
+					margin-top: -27px;	
+					margin-left: 80px;		
+				}
+				.sign-up-year
+				{
+					margin-top: -27px;	
+					margin-left: 210px;
+				}
+				.sign-up-button
+				{
+					margin-left: 350px;
+					margin-top: -30px;
+				}
