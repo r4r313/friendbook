@@ -7,7 +7,7 @@ Features: profiles, friends, posts, comments, likes, photos uploads, messages, n
 
 Technologies Used : HTML, CSS, JavaScript (with Ajax), PHP, XAMPP.
 
-The purpose of a creating website is to learn website designing and never meant to copy or compete with real facebool.
+The purpose of a creating website is to learn website designing and never meant to copy or compete with real facebook.
 
 Creators : Rohit Nandani and Sourabh Suman.
 	   CSE,2k12 BATCH.
